@@ -4,11 +4,6 @@ heading.forEach(element => {
     mainArray.push(element.localName);
 });
 console.log(mainArray);
-// const newArray = mainArray.sort();
-// console.log(newArray);
-
-// const mainArray = ['h2','h3','h1','h5','h4'];
-// const newArray = ['h1','h2','h3','h4','h5'];
 
 function sortHeading() {
     let i = 0;
