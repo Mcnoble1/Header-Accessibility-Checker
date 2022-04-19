@@ -20,3 +20,5 @@ function sortHeading() {
                 i++;
              }
 }};
+
+sortHeading();
