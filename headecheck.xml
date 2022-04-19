@@ -9,7 +9,7 @@
 	<version>1.0</version>
 	<description>Accessibility Checker Plugin for Heading order in Frontend code for Joomla GSOC'22</description>
 	<files>
-		<filename plugin="accessibility">accessibility.php</filename>
+		<filename plugin="heading_accessibility_checker">header_check.php</filename>
 	</files>
 	<languages>
 		<language tag="en-GB">language/en-GB/plg_system_accessibility.ini</language>
